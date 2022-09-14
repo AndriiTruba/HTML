@@ -73,10 +73,14 @@
 | **`>>> 0: To exit in main menu.`** | повернутися у головне меню|
 |||
 |**2) Робота з нотатками**||
-|||
+
+------------
+
 <p align="center">
 <img src="https://github.com/AndriiTruba/-pictures/blob/main/menu_notes.png">
 </p>
+
+------------
 
 | **`Write text to find`** | Введіть текст для пошуку нотаток: |
 | `- By article`  | пошук по назві |
@@ -99,6 +103,8 @@
 <img src="https://github.com/AndriiTruba/-pictures/blob/main/menu_add_note.png">
 </p>
 
+------------
+
 |**Меню сортування файлів**||
 |||
 | `- 1) >>> Chose folder to work whit it! <<<`  |  введіть повний шлях до папки |
@@ -106,6 +112,8 @@
 | `- 3) Open folder after clean`  | відкрити відсортовану папку |
 | `- 4) Open read file after clean`  | відкрити файл з описом сортування |
 | `- 0: Exit to main menu`  | вихід до попереднього меню |
+| ------------ | ------------ |
+
 ------------
 ‎
 ## Description and instructions in English
@@ -153,3 +161,4 @@ To run, you should write a command **` fellow`** in the cmd as an administrator.
 |||
 |**Sort files**||
 | `sort folder` | sort files in the specified folder |
+
